@@ -12,4 +12,5 @@
 
 Add a link to the repository here in the README.
 
-Link: <YOUR_REPOSITORY>
+Link: *Front* => https://github.com/OokamiTeam/front
+      *Back* => https://github.com/OokamiTeam/back
